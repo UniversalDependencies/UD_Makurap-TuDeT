@@ -1,11 +1,11 @@
 # sent_id = 1
 # text = Kito nãkowut moat xauwet moke kepit xagara
-# text_eng = 
-1	Kito	_	_	_	_	_	_	_	_
-2	nãkowut	_	_	_	_	_	_	_	_
-3	moat	_	_	_	_	_	_	_	_
-4	xauwet	_	_	_	_	_	_	_	_
-5	moke	_	_	_	_	_	_	_	_
-6	kepit	_	_	_	_	_	_	_	_
-7	xagara	_	_	_	_	_	_	_	_
+# text_eng = The man met a boy, son of the chief and thief (Wiriyo's text)
+1	Kito	Kito	NOUN	n	_	7	nsubj	7:nsubj	_
+2	nãkowut	nãkowut	NOUN	n	_	7	obj	5:parataxis|7:obj	_
+3	moat	moat	NOUN	n	_	6	conj	6:conj	_
+4	xauwet	aup	NOUN	n	_	5	dep	5:dep	_
+5	moke	moke	NOUN	n	_	6	dep	6:dep	_
+6	kepit	kepit	CCONJ	_	_	_	_	_	_
+7	xagara	agat	VERB	v	_	0	root	0:root	_
 
