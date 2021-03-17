@@ -1,3 +1,6 @@
+# document_source = Braga (2005). Aspects Morphosyntaxiques de la langue Makurap. University of Toulose 2. Unpublished PhD Thesis.
+# document_authorship = Carolina Aragon and Fabrício Ferraz Gerardi
+# document_reference = 
 # sent_id = 1
 # text = Kito nãkowut moat xauwet moke kepit xagara
 # text_eng = The man met a boy, son of the chief and thief (Wiriyo's text)
@@ -8,4 +11,14 @@
 5	moke	moke	NOUN	n	_	6	dep	6:dep	_
 6	kepit	kepit	CCONJ	_	_	_	_	_	_
 7	xagara	agat	VERB	v	_	0	root	0:root	_
+
+# sent_id = 2
+# text = ngot xiaret
+# text_eng = The owner of ngot (Wiriyo's text)
+1	ngot	ngot	NOUN	n	_	2	dep	2:dep	_
+2	xiaret	iat	NOUN	n	_	0	root	0:root	_
+
+# sent_id = 3
+# text = yãn o xepngoret oerã kepit eta on toa
+# text_eng = It's been a while since he's been eating my ngot, I will watch out (Wiriyo's text)
 
