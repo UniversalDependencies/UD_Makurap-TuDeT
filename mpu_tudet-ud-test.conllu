@@ -36,3 +36,12 @@
 2	xēke	xēke	PART	pcl	_	1	discourse	1:discourse	_
 3	ke	ke	PART	pcl	Evident=Nfh	1	discourse	1:discourse	_
 
+# sent_id = 5
+# text = etera kurux amang ngot keya pīxe
+# text_eng = He goes, he arrives, he sees him snatching the ngot (Wiriyo's text)
+1	etera	tet	VERB	vi	Aspect=Imp	0	root	0:root	_
+2	kurux	kurux	VERB	vi	Aspect=Perf	1	parataxis	1:parataxis	_
+3	amang	amang	VERB	vt	Aspect=Perf	1	parataxis	1:parataxis	_
+4	ngot	ngot	NOUN	n	_	5	obj	5:obj	_
+5	keya	key	VERB	vt	Aspect=Imp	1	parataxis	1:parataxis	_
+6	pīxe	pīxe	ADV	adv	_	5	advmod	5:advmod	_
