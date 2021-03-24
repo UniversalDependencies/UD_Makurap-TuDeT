@@ -70,3 +70,9 @@
 1	woaret	woaret	NOUN	n	_	0	root	0:root	_
 2	koa	koa	PART	part	_	1	discourse	1:discourse	_
 
+# sent_id = 9
+# text = etxekup keya
+# text_eng = He tears off a piece of wood and makes an arrow for himself (Wiriyo's text)
+1	etxekup	ekup	NOUN	n	Reflex=Yes	2	obj	2:obj	_
+2	keya	key	VERB	vt	Aspect=Imp	0	root	0:root	_
+
