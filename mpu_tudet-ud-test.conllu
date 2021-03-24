@@ -55,3 +55,18 @@
 4	amang	amang	VERB	vt	Aspect=Perf	2	parataxis	2:parataxis	_
 5	pīxe	pīxe	ADV	adv	_	4	advmod	4:advmod	_
 
+# sent_id = 7
+# text = ã en emẽ xop nẽnẽkaret
+# text_eng = Ah, you're the one who (always) does this (Wiriyo's text)
+1	ã	ã	INTJ	intj	_	2	discourse	2:discourse	_
+2	en	en	PRON	pro	_	0	root	0:root	_
+3	emẽ	emẽ	DET	dem	_	5	obj	5:obj	_
+4	xop	xop	PRON	pro	_	2	dep	2:dep	_
+5	nẽnẽkaret	nẽ	NOUN	n	Aspect=Hab|Nomzr=Ag|Voice=Cau	4	dep	4:dep	_
+
+# sent_id = 8
+# text = woaret koa
+# text_eng = It is good (Wiriyo's text)
+1	woaret	woaret	NOUN	n	_	0	root	0:root	_
+2	koa	koa	PART	part	_	1	discourse	1:discourse	_
+
