@@ -79,7 +79,7 @@
 # sent_id = 9
 # text = opũãtemwã ota
 # text_eng = I will be back (Wiriyo's text)
-1	opũãtemwã	pũãtem	VERB	vi	Aspect=Imp|Person=1	0	_	_	_	_
+1	opũãtemwã	pũãtem	VERB	vi	Aspect=Imp|Person=1	0	_	_	_
 2	ota	ta	VERB	vi	Person=1	1	aux	1:aux	_
 
 # sent_id = 9
