@@ -19,7 +19,7 @@
 2	xiaret	iat	NOUN	n	Case=Gen|Rel=Cont	0	root	0:root	_
 
 # sent_id = 3
-# text = yãn oxepngoret oerã kepit eta on toa
+# text = yãn oxepngoret oerã kepit eta on toa
 # text_eng = It's been a while since he's been eating my ngot, I will watch out (Wiriyo's text)
 1	yãn	yãn	ADV	adv	_	3	advmod	3:advmod	_
 2	oxepngoret	ngot	NOUN	n	Case=Gen|Person=1|Rel=Cont	3	obj	3:obj	_
@@ -30,14 +30,14 @@
 7	toa	top	VERB	vt	_	5	dep	5:dep	_
 
 # sent_id = 4
-# text = xeke xēke ke
+# text = xeke xēke ke
 # text_eng = Maybe (it's) that one, he said (Wiriyo's text)
 1	xeke	xeke	PRON	pro	Person=3|PronType=Prs	0	root	0:root	_
 2	xēke	xēke	PART	pcl	_	1	discourse	1:discourse	_
 3	ke	ke	PART	pcl	Evident=Nfh	1	discourse	1:discourse	_
 
 # sent_id = 5
-# text = etera kurux amang ngot keya pīxe
+# text = etera kurux amang ngot keya pīxe
 # text_eng = He goes, he arrives, he sees him snatching the ngot (Wiriyo's text)
 1	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	0:root	_
 2	kurux	kurux	VERB	vi	Aspect=Perf	1	parataxis	1:parataxis	_
@@ -47,7 +47,7 @@
 6	pīxe	pīxe	ADV	adv	_	5	advmod	5:advmod	_
 
 # sent_id = 6
-# text = mokat etera kurux amang pīxe
+# text = mokat etera kurux amang pīxe
 # text_eng = Then, he goes, he arrives, he sees him (Wiriyo's text)
 1	mokat	mokat	ADV	adv	_	2	advmod	2:advmod	_
 2	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	0:root	_
@@ -56,7 +56,7 @@
 5	pīxe	pīxe	ADV	adv	_	4	advmod	4:advmod	_
 
 # sent_id = 7
-# text = ã en emẽ xop nẽnẽkaret
+# text = ã en emẽ xop nẽnẽkaret
 # text_eng = Ah, you're the one who (always) does this (Wiriyo's text)
 1	ã	ã	INTJ	intj	_	2	discourse	2:discourse	_
 2	en	en	PRON	pro	_	0	root	0:root	_
@@ -76,9 +76,9 @@
 1	etxekup	ekup	NOUN	n	Reflex=Yes	2	obj	2:obj	_
 2	keya	key	VERB	vt	Aspect=Imp	0	root	0:root	_
 
-# sent_id = 9
-# text = opũãtemwã ota
-# text_eng = I will be back (Wiriyo's text)
-1	opũãtemwã	pũãtem	VERB	vi	Aspect=Imp|Person=1	0	_	_	_	_
+# sent_id = 10
+# text = opũãtemwã ota
+# text_eng =  (Wiriyo's text)
+1	opũãtemwã	pũãtem	VERB	vi	Aspect=Imp|Person=1	0	_	_	_
 2	ota	ta	VERB	vi	Person=1	1	aux	1:aux	_
 
