@@ -76,16 +76,41 @@
 1	etxekup	ekup	NOUN	n	Reflex=Yes	2	obj	2:obj	_
 2	keya	key	VERB	vt	Aspect=Imp	0	root	0:root	_
 
-# sent_id = 9
+# sent_id = 10
 # text = opũãtemwã ota
 # text_eng = I will be back (Wiriyo's text)
 1	opũãtemwã	pũãtem	VERB	vi	Aspect=Imp|Person=1	0	_	_	_
 2	ota	ta	VERB	vi	Person=1	1	aux	1:aux	_
 
-# sent_id = 9
+# sent_id = 11
 # text = mokat etera kurux
-# text_eng = I will be back (Wiriyo's text)
-1	opũãtemwã	pũãtem	VERB	vi	Aspect=Imp|Person=1	0	_	_	_
-2	ota	ta	VERB	vi	Person=1	1	aux	1:aux	_
+# text_eng = Then, he goes, (he) comes (Wiriyo's text)
+1	mokat	mokat	CCONJ	conj	_	2	discourse	2:discourse	_
+2	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	0:root	_
+3	kurux	kurux	VERB	vi	Aspect=Perf	2	conj	2:conj	_
 
- 
+# sent_id = 12
+# text = nãpẽrenã kito eapītera pīxe
+# text_eng = Meanwhile, the man was thinking standing up (Wiriyo's text)
+1	nãpẽrenã	nãpẽrenã	ADV	adv	_	3	advmod	3:advmod	_
+2	kito	kito	NOUN	n	_	3	nsubj	3:nsubj	_
+3	eapītera	apītet	VERB	vi	Aspect=Imp|Person=3	0	root	0:root	_
+4	pīxe	pīxe	VERB	vi	_	3	aux	3:aux	_
+
+# sent_id = 13
+# text = op ten eya õn
+# text_eng = How am I going to do it? (Wiriyo's text)
+1	op	op	ADV	adv	_	2	advmod	2:advmod	_
+2	ten	ten	VERB	vt	_	0	root	0:root	_
+3	eya	eya	PART	pcl	Tense=Fut	2	dep	2:dep	_
+4	õn	õn	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+
+# sent_id = 14
+# text = xop ten eya on ke
+# text_eng = This is how I'm going to do it, he said (Wiriyo's text)
+1	xop	xop	DET	dem	Dem=Prox	2	obj	2:obj	_
+2	ten	ten	VERB	vt	_	0	root	0:root	_
+3	eya	eya	PART	pcl	Tense=Fut	2	dep	2:dep	_
+4	on	on	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+5	ke	ke	PART	pcl	Evident=Fh	2	discourse	2:discourse	_
+
