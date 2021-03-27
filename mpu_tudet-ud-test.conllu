@@ -114,3 +114,14 @@
 4	on	on	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 5	ke	ke	PART	pcl	Evident=Fh	2	discourse	2:discourse	_
 
+# sent_id = 15
+# text = mawo papīknga mokat etyenkuax nã xoknga xok
+# text_eng = (He) took the "mawo" then (he) lined up, (he) put it on (Wiriyo's text)
+1	mawo	mawo	NOUN	n	_	2	obj	2:obj	_
+2	papīknga	papīk	VERB	vt	Aspect=Imp|Person=3	_	_	_	_
+3	mokat	mokat	ADV	adv	_	5	advmod	5:advmod	_
+4	etyenkuax	yenkuax	NOUN	n	Reflex=Yes	5	obj	5:obj	_
+5	nã	nã	VERB	vt	Aspect=Imp|Person=3	2	parataxis	2:parataxis	_
+6	xoknga	xok	VERB	vt	Aspect=Imp|Person=3	5	parataxis	5:parataxis	_
+7	xok	xok	VERB	vt	Aspect=Perf|Person=3	6	dep	6:dep	_
+
