@@ -136,8 +136,8 @@
 # sent_id = 17
 # text = mokat etera korop noa pe
 # text_eng = Then (he) went, (he) disappeared into the mountain range (Wiriyo's text)
-1	mokat	mokat	ADV	adv	_	2	advmod	2:advmod	_
-2	etera	tet	VERB vi Aspect=Imp|Person=3 	0	root	0:root	_
+1	mokat	mokat ADV	adv	_	2	advmod 2:advmod	_
+2	etera	tet VERB vi Aspect=Imp|Person=3 0	root	0:root	_
 3	korop	korop	VERB vi	Aspect=Perf	2	dep	2:dep	_
 4	noa	noa	NOUN	n	_	3	obl	3:obl	_
 5	pe	pe	ADP	posp	_	4	case	4:case	_
