@@ -136,9 +136,23 @@
 # sent_id = 17
 # text = mokat etera korop noa pe
 # text_eng = Then (he) went, (he) disappeared into the mountain range (Wiriyo's text)
-1	mokat	mokat	ADV	adv	_	2	advmod	_	_
-2	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
-3	korop	korop	VERB	vi	Aspect=Perf	2	dep	_	_
-4	noa	noa	NOUN	n	_	3	obl	_	_
-5	pe	pe	ADP	posp	_	4	case	_	_
+1	mokat	mokat	ADV	adv	_	2	advmod	2:advmod	_
+2	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	0:root	_
+3	korop	korop	VERB	vi	Aspect=Perf	2	dep	2:dep	_
+4	noa	noa	NOUN	n	_	3	obl	3:obl	_
+5	pe	pe	ADP	posp	_	4	case	4:case	_
+
+# sent_id = 18
+# text = ama ngot xiaret eya kurux amang ngot oen wimõ nitēt
+# text_eng = In the morning, the owner of the ngot arrived, he saw that the ngot had been completely eaten (Wiriyo's text)
+1	ama	ama	NOUN	n	_	4	discourse	4:discourse	_
+2	ngot	ngot	NOUN	n	_	4	obj	4:obj	_
+3	xiaret	iat	NOUN	_	_	4	nsubj	4:nsubj	_
+4	eya	y	VERB	_	_	0	root	0:root	_
+5	kurux	kurux	VERB	_	_	4	dep	4:dep	_
+6	amang	amang	VERB	_	_	4	dep	4:dep	_
+7	ngot	ngot	NOUN	_	_	8	obj	8:obj	_
+8	oen	oen	VERB	_	_	4	parataxis	4:parataxis	_
+9	wimõ	wimõ	ADV	_	_	8	advmod	8:advmod	_
+10 nitēt	nitēt	PART	_	_	8	discourse	8:discourse	_
 
