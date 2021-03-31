@@ -156,7 +156,20 @@
 9	wimõ	wimõ	ADV	adv	_	8	advmod	_	_
 10	nitēt	nitēt	PART	pcl	_	8	discourse	_	_
 
-# sent_id = 18
+# sent_id = 19
 # text = arimot urot arimot urot
 # text_eng = Bad beast! (Wiriyo's text)
+1	arimot	arimot	NOUN	n	_	0	root	0:root	_
+2	urot	uro	NOUN	n	Case=Gen|Rel=Cont	1	dep	1:dep	_
+3	arimot	arimot	NOUN	n	Case=Gen|Rel=Cont	1	discourse	1:discourse	_
+4	urot	uro	NOUN	n	Case=Gen|Rel=Cont	3	dep	3:dep	_
+
+# sent_id = 20
+# text = xop koa ten nã peka
+# text_eng = That was the way (he) wanted to do it (Wiriyo's text)
+1	xop	xop	DET	dem	Dem=Prox	3	det	3:det	_
+2	koa	koa	PART	pcl	_	3	discourse	3:discourse	_
+3	ten	ten	NOUN	n	_	4	obj	4:obj	_
+4	nã	n	VERB	vt	Aspect=Imp	0	root	0:root	_
+5	peka	pek	VERB	vt	Aspect=Imp	4	dep	4:dep	_
 
