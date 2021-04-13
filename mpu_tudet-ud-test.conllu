@@ -184,3 +184,15 @@
 6	ke	ke	PART	pcl	Evident=Fh	5	discourse	5:discourse	_
 7	pit	pit	ADV	adv	_	5	advmod	5:advmod	_
 
+# sent_id = 21
+# text =  # sent_id = 21
+# text =  mokat peitõã e tera amang korop kux me
+# text_eng = Then, he was looking for it and he noticed that it had disappeared on the ground (Wiriyo's text)
+1	mokat	mokat	ADV	conj	cc	3	advmod	3:advmod	_
+2	peitõã	peitõã	ADV	adv	_	3	advmod	3:advmod	_
+3	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	0:root	_
+4	amang	amang	VERB	vt	_	3	parataxis	3:parataxis	_
+5	korop	korop	VERB	vi	Aspect=Imp	3	parataxis	3:parataxis	_
+6	kux	kux	NOUN	n	_	5	obl	5:obl	_
+7	me	me	ADP	posp	_	6	case	6:case	_
+
