@@ -1,14 +1,14 @@
 ![TuLeD](not-to-release/mapNimu2.png)
 # Summary
 
-UD_Makurap-TuDeT is a collection of annotated texts in Makuráp. Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and UD_Munduruku-TuDeT, UD_Makuráp-TuDeT is part of the [TuLaR](https://tular.org). The treebank is ongoing work and is constantly being updated.
+UD_Makuráp-TuDeT is a collection of annotated texts in Makuráp. Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and UD_Munduruku-TuDeT, UD_Makuráp-TuDeT is part of the [TuLaR](https://tular.org). The treebank is ongoing work and is constantly being updated.
 
 
 
 
 # Introduction
 
-UD_Makurap-TuDeT is a collection of annotated texts in Makurap. Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Munduruku-TuDeT](https://github.com/UniversalDependencies/UD_Munduruku-TuDeT), UD_Tupinamba-TuDeT is part of Tupían Language Resources [TuLaR](https://tular.org).  The sentences are being annotated by Carolina Aragon and Fabrício Ferraz Gerardi .
+UD_Makuráp-TuDeT is a collection of annotated texts in Makuráp. Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Munduruku-TuDeT](https://github.com/UniversalDependencies/UD_Munduruku-TuDeT), UD_Makuráp-TuDeT is part of Tupían Language Resources [TuLaR](https://tular.org).  The sentences are being annotated by Carolina Aragon and Fabrício Ferraz Gerardi .
 
 ## Text sources
 
