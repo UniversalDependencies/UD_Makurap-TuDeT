@@ -61,7 +61,7 @@
 1	ã	ã	INTJ	intj	_	2	discourse	2:discourse	_
 2	en	en	PRON	pro	Number=Sing|Person=2|PronType=Prs	0	root	0:root	_
 3	emẽ	emẽ	DET	dem	_	5	obj	5:obj	_
-4	xop	xop	PRON	pro	_	2	dep	2:dep	_
+4	xop	xop	DET	dem	_	2	dep	2:dep	_
 5	nẽnẽkaret	nẽ	NOUN	n	Aspect=Hab|Nomzr=Ag|Voice=Cau	4	dep	4:dep	_
 
 # sent_id = 8
@@ -247,3 +247,10 @@
 # sent_id = 29
 # text = xop me pote worawiget xop me
 # text_eng = Here was her cry, yesterday here (Wiriyo's text)
+1	xop	xop	DET	dem	_	4	obl	4:obl	_
+2	me	me	ADP	_	_	1	case	1:case	_
+3	pote	pote	ADV	_	_	4	advmod	4:advmod	_
+4	worawiget	worawik	NOUN	Case=Gen|Rel=Cont	_	0	root	0:root	_
+5	xop	xop	DET	dem	_	4	obl	4:obl	_
+6	me	me	ADP	posp	_	5	case	5:case	_
+
