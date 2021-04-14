@@ -228,6 +228,12 @@
 7	õn	õn	PRON	pro	Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
 
 # sent_id = 27
-# text = 
-# text_eng = (Wiriyo's text)
+# text = kepit eya õn waokatmõ papiknga ke
+# text_eng = And tomorrow I'll take (it), he said (Wiriyo's text)
+1	kepit	kepit	CCONJ	conj	_	3	cc	3:cc	_
+2	eya	eya	PART	pcl	Tense=Fut	5	dep	5:dep	_
+3	õn	õn	PRON	pro	Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
+4	waokatmõ	waokatmõ	ADV	adv	_	5	advmod	5:advmod	_
+5	papiknga	papik	VERB	vt	Aspect=Imp	0	root	0:root	_
+6	ke	ke	PART	pcl	Evident=Nfh	5	discourse	5:discourse	_
 
