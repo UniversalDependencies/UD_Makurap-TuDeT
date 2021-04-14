@@ -12,7 +12,7 @@ UD_Makurap-TuDeT is a collection of annotated texts in Makurap. Together with [U
 
 ## Text sources
 
-**Tupinambá sentences**:<br/>
+**Makuráp sentences**:<br/>
 * Braga, Alzerinda de Oliveira. 2005, *Aspects Morphosyntaxiques de la langue Makurap* Universite de Toulouse<sup>a</sup> Unpublished PhD thesis.
 
 
@@ -22,6 +22,7 @@ The development of the treebank is supported by the by European Research Council
 
 ## References
 
+* Braga, Alzerinda de Oliveira. 2005, *Aspects Morphosyntaxiques de la langue Makurap* Universite de Toulouse<sup>a</sup> Unpublished PhD thesis.
 
 # Changelog
 
