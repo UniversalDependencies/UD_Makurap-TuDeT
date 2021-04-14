@@ -26,7 +26,7 @@
 3	oerã	oen	VERB	vt	_	0	root	0:root	_
 4	kepit	kepit	CCONJ	conj	_	5	cc	5:cc	_
 5	eta	eta	VERB	vi	_	3	conj	3:conj	_
-6	on	on	PRON	pro	_	5	nsubj	5:nsubj	_
+6	on	on	PRON	pro	Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
 7	toa	top	VERB	vt	_	5	dep	5:dep	_
 
 # sent_id = 4
@@ -59,7 +59,7 @@
 # text = ã en emẽ xop nẽnẽkaret
 # text_eng = Ah, you're the one who (always) does this (Wiriyo's text)
 1	ã	ã	INTJ	intj	_	2	discourse	2:discourse	_
-2	en	en	PRON	pro	_	0	root	0:root	_
+2	en	en	PRON	pro	Number=Sing|Person=2|PronType=Prs	0	root	0:root	_
 3	emẽ	emẽ	DET	dem	_	5	obj	5:obj	_
 4	xop	xop	PRON	pro	_	2	dep	2:dep	_
 5	nẽnẽkaret	nẽ	NOUN	n	Aspect=Hab|Nomzr=Ag|Voice=Cau	4	dep	4:dep	_
@@ -213,5 +213,21 @@
 # sent_id = 25
 # text = etera korop
 # text_eng = He went, he came in (Wiriyo's text)
+1	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	0:root	_
+2	korop	korop	VERB	vi	Aspect=Perf	1	parataxis	1:parataxis	_
 
+# sent_id = 26
+# text = kito moke xiat ekuwaora kepit pukpuga õn
+# text_eng = I fanned the transformed thief man (Wiriyo's text)
+1	kito	kito	NOUN	n	_	6	obj	6:obj	_
+2	moke	moke	NOUN	n	_	3	dep	3:dep	_
+3	xiat	xiat	NOUN	n	_	1	nmod	1:nmod	_
+4	ekuwaora	kuwaot	VERB	vi	Aspect=Imp|Person=3	6	parataxis	6:parataxis	_
+5	kepit	kepit	CCONJ	conj	_	6	cc	6:cc	_
+6	pukpuga	puk	VERB	vt	Aspect=Imp	0	root	0:root	_
+7	õn	õn	PRON	pro	Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
+
+# sent_id = 27
+# text = 
+# text_eng = (Wiriyo's text)
 
