@@ -199,14 +199,14 @@
 # text = wotye pukpuga pit
 # text_eng = He sat down, fanning, and nothing happened (Wiriyo's text)
 1	wotye	woty	VERB	vi	Aspect=Imp	0	root	0:root	_
-2	pukpuga	puk	VERB	vi	Aspect=Perf	1	parataxis	1:parataxis	_
+2	pukpuga	puk	VERB	vi	Aspect=Perf	1	advcl	1:advcl	_
 3	pit	pit	PRON	pro	Polarity=Neg	2	parataxis	2:parataxis	_
 
 # sent_id = 24
 # text =  putorot xēke ke xēt
 # text_eng = He might be dead, he thought (Wiriyo's text)
 1	putorot	putorot	NOUN	n	_	0	root	0:root	_
-2	xēke	xēke	PART	pcl	_	1	discourse	1:discourse	_
+2	xēke	xēke	PART	pcl	Pcl=Dub	1	discourse	1:discourse	_
 3	ke	ke	PART	pcl	Evident=Nfh	1	discourse	1:discourse	_
 4	xēt	xēt	PART	past	Tense=Past	1	dep	1:dep	_
 
@@ -214,15 +214,15 @@
 # text = etera korop
 # text_eng = He went, he came in (Wiriyo's text)
 1	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	0:root	_
-2	korop	korop	VERB	vi	Aspect=Perf	1	parataxis	1:parataxis	_
+2	korop	korop	VERB	vi	Aspect=Perf	1	xcomp	1:xcomp	_
 
 # sent_id = 26
 # text = kito moke xiat ekuwaora kepit pukpuga õn
-# text_eng = I fanned the transformed thief man (Wiriyo's text)
+# text_eng = I fanned the thief man who was transformed (Wiriyo's text)
 1	kito	kito	NOUN	n	_	6	obj	6:obj	_
-2	moke	moke	NOUN	n	_	3	dep	3:dep	_
+2	moke	moke	NOUN	n	_	3	nmod	3:nmod	_
 3	xiat	xiat	NOUN	n	_	1	nmod	1:nmod	_
-4	ekuwaora	kuwaot	VERB	vi	Aspect=Imp|Person=3	6	parataxis	6:parataxis	_
+4	ekuwaora	kuwaot	VERB	vi	Aspect=Imp|Person=3	6	conj	6:conj	_
 5	kepit	kepit	CCONJ	conj	_	6	cc	6:cc	_
 6	pukpuga	puk	VERB	vt	Aspect=Imp	0	root	0:root	_
 7	õn	õn	PRON	pro	Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
@@ -230,7 +230,7 @@
 # sent_id = 27
 # text = kepit eya õn waokatmõ papiknga ke
 # text_eng = And tomorrow I'll take (it), he said (Wiriyo's text)
-1	kepit	kepit	CCONJ	conj	_	3	cc	3:cc	_
+1	kepit	kepit	CCONJ	conj	_	5	cc	5:cc	_
 2	eya	eya	PART	pcl	Tense=Fut	5	dep	5:dep	_
 3	õn	õn	PRON	pro	Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
 4	waokatmõ	waokatmõ	ADV	adv	_	5	advmod	5:advmod	_
@@ -239,33 +239,35 @@
 
 # sent_id = 28
 # text = ama etera kurux
-# text_eng = It was daylight. He's gone, he's come (Wiriyo's text)
-1	ama	ama	NOUN	n	_	2	parataxis	2:parataxis	_
-2	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	0:root	_
-3	kurux	kurux	VERB	vi	Aspect=Perf	2	parataxis	2:parataxis	_
+# text_eng = It became morning. He went, he arrived (Wiriyo's text)
+1	ama	ama	NOUN	n	_	0	root	0:root	_
+2	etera	tet	VERB	vi	Aspect=Imp|Person=3	1	parataxis	1:parataxis	_
+3	kurux	kurux	VERB	vi	Aspect=Perf	2	xcomp	2:xcomp	_
 
 # sent_id = 29
 # text = xop me pote worawiget xop me
-# text_eng = Here was her cry, yesterday here (Wiriyo's text)
+# text_eng = Yesterday, he yelled here (Wiriyo's text)
 1	xop	xop	DET	dem	_	4	obl	4:obl	_
-2	me	me	ADP	_	_	1	case	1:case	_
-3	pote	pote	ADV	_	_	4	advmod	4:advmod	_
-4	worawiget	worawik	NOUN	Case=Gen|Rel=Cont	_	0	root	0:root	_
+2	me	me	ADP	posp	_	1	case	1:case	_
+3	pote	pote	ADV	adv	_	4	advmod	4:advmod	_
+4	worawiget	worawik	NOUN	n	Case=Gen|Rel=Cont	0	root	0:root	_
 5	xop	xop	DET	dem	_	4	obl	4:obl	_
 6	me	me	ADP	posp	_	5	case	5:case	_
 
 # sent_id = 30
-# text = kux kixa ngarap pit
-# text_eng = He digs the ground, he made a hole, nothing (Wiriyo's text)
+# text = kux kixa ngarap, pit
+# text_eng = He made a hole, digging the ground, nothing (Wiriyo's text)
 1	kux	kux	NOUN	n	_	2	obj	2:obj	_
-2	kixa	kix	VERB	vt	Aspect=Imp	0	root	0:root	_
-3	ngarap	ngarap	VERB	vi	Aspect=Perf	2	parataxis	2:parataxis	_
-4	pit	pit	PRON	pro	Polarity=Neg	2	parataxis	2:parataxis	_
+2	kixa	kix	VERB	vt	Aspect=Imp	3	advcl	3:advcl	_
+3	ngarap	ngarap	VERB	vi	Aspect=Perf	0	root	0:root	_
+4	,	,	PUNCT	n	_	3	punct	3:punct	_
+5	pit	pit	PRON	pro	Polarity=Neg	3	parataxis	3:parataxis	_
 
 # sent_id = 31
-# text = põrom toa pit
+# text = põrom toa, pit
 # text_eng = He looked in vain, nothing (Wiriyo's text)
 1	põrom	põrom	ADV	adv	_	2	advmod	2:advmod	_
 2	toa	top	VERB	vi	Aspect=Imp	0	root	0:root	_
-3	pit	pit	PRON	pro	Polarity=Neg	2	discourse	2:discourse	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	pit	pit	PRON	pro	Polarity=Neg	2	parataxis	2:parataxis	_
 
