@@ -90,7 +90,7 @@
 3	kurux	kurux	VERB	vi	Aspect=Perf	2	conj	_	_
 
 # sent_id = 12
-# text = nãpẽrenã kito eapītera pīxe
+# text = nãpẽrenã kito eapītera pīxe
 # text_eng = Meanwhile, the man was thinking standing up (Wiriyo's text)
 1	nãpẽrenã	nãpẽrenã	ADV	adv	_	3	advmod	3:advmod	_
 2	kito	kito	NOUN	n	_	3	nsubj	3:nsubj	_
@@ -98,7 +98,7 @@
 4	pīxe	pīxe	VERB	vi	_	3	aux	3:aux	_
 
 # sent_id = 13
-# text = op ten eya õn
+# text = op ten eya õn
 # text_eng = How am I going to do it? (Wiriyo's text)
 1	op	op	ADV	adv	_	2	advmod	2:advmod	_
 2	ten	ten	VERB	vt	_	0	root	0:root	_
@@ -115,7 +115,7 @@
 5	ke	ke	PART	pcl	Evident=Fh	2	discourse	2:discourse	_
 
 # sent_id = 15
-# text = mawo papīknga mokat etyenkuax nã xoknga xok
+# text = mawo papīknga mokat etyenkuax nã xoknga xok
 # text_eng = (He) took the "mawo" then (he) lined up, (he) put it on (Wiriyo's text)
 1	mawo	mawo	NOUN	n	_	2	obj	2:obj	_
 2	papīknga	papīk	VERB	vt	Aspect=Imp|Person=3	_	_	_	_
@@ -143,7 +143,7 @@
 5	pe	pe	ADP	posp	_	4	case	4:case	_
 
 # sent_id = 18
-# text = ama ngot xiaret eya kurux amang ngot oen wimõ nitēt
+# text = ama ngot xiaret eya kurux amang ngot oen wimõ nitēt
 # text_eng = In the morning, the owner of the ngot arrived, he saw that the ngot had been completely eaten (Wiriyo's text)
 1	ama	ama	ADV	adv	_	4	advmod	4:advmod	_
 2	ngot	ngot	NOUN	n	_	3	nmod	3:nmod	_
@@ -165,7 +165,7 @@
 4	urot	uro	NOUN	n	Case=Gen|Rel=Cont	3	nmod	3:nmod	_
 
 # sent_id = 20
-# text = xop koa ten nã peka
+# text = xop koa ten nã peka
 # text_eng = That was the way (he) wanted to do it this way (Wiriyo's text)
 1	xop	xop	DET	dem	_	3	nmod	3:nmod	_
 2	koa	koa	PART	pcl	_	3	discourse	3:discourse	_
@@ -185,7 +185,7 @@
 7	pit	pit	ADV	adv	_	5	advmod	5:advmod	_
 
 # sent_id = 22
-# text =  mokat peitõã e tera amang korop kux me
+# text =  mokat peitõã etera amang korop kux me
 # text_eng = Then, he was looking for it and he noticed that it had disappeared on the ground (Wiriyo's text)
 1	mokat	mokat	ADV	conj	cc	3	advmod	3:advmod	_
 2	peitõã	peitõã	ADV	adv	_	3	advmod	3:advmod	_
@@ -203,7 +203,7 @@
 3	pit	pit	PRON	pro	Polarity=Neg	2	parataxis	2:parataxis	_
 
 # sent_id = 24
-# text =  putorot xēke ke xēt
+# text =  putorot xēke ke xēt
 # text_eng = He might be dead, he thought (Wiriyo's text)
 1	putorot	putorot	NOUN	n	_	0	root	0:root	_
 2	xēke	xēke	PART	pcl	Pcl=Dub	1	discourse	1:discourse	_
@@ -217,7 +217,7 @@
 2	korop	korop	VERB	vi	Aspect=Perf	1	xcomp	1:xcomp	_
 
 # sent_id = 26
-# text = kito moke xiat ekuwaora kepit pukpuga õn
+# text = kito moke xiat ekuwaora kepit pukpuga õn
 # text_eng = I fanned the thief man who was transformed (Wiriyo's text)
 1	kito	kito	NOUN	n	_	6	obj	6:obj	_
 2	moke	moke	NOUN	n	_	3	nmod	3:nmod	_
@@ -228,7 +228,7 @@
 7	õn	õn	PRON	pro	Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
 
 # sent_id = 27
-# text = kepit eya õn waokatmõ papiknga ke
+# text = kepit eya õn waokatmõ papiknga ke
 # text_eng = And tomorrow I'll take (it), he said (Wiriyo's text)
 1	kepit	kepit	CCONJ	conj	_	5	cc	5:cc	_
 2	eya	eya	PART	pcl	Tense=Fut	5	dep	5:dep	_
@@ -264,7 +264,7 @@
 5	pit	pit	PRON	pro	Polarity=Neg	3	parataxis	3:parataxis	_
 
 # sent_id = 31
-# text = põrom toa, pit
+# text = põrom toa, pit
 # text_eng = He looked in vain, nothing (Wiriyo's text)
 1	põrom	põrom	ADV	adv	_	2	advmod	2:advmod	_
 2	toa	top	VERB	vi	Aspect=Imp	0	root	0:root	_
