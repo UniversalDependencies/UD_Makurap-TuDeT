@@ -108,7 +108,7 @@
 # sent_id = 14
 # text = xop ten eya on ke
 # text_eng = This is how I'm going to do it, he said (Wiriyo's text)
-1	xop	xop	DET	dem	Dem=Prox	2	obj	2:obj	_
+1	xop	xop	DET	dem	Deixis=Prox	2	obj	2:obj	_
 2	ten	ten	VERB	vt	_	0	root	0:root	_
 3	eya	eya	PART	pcl	Tense=Fut	2	dep	2:dep	_
 4	on	on	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
