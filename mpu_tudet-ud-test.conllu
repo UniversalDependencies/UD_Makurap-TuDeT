@@ -169,7 +169,7 @@
 # text_eng = That was the way (he) wanted to do it this way (Wiriyo's text)
 1	xop	xop	DET	dem	_	3	nmod	3:nmod	_
 2	koa	koa	PART	pcl	_	3	discourse	3:discourse	_
-3	ten	ten	NOUN	n	_	4	advmod	4:advmod	_
+3	ten	ten	ADV	adv	_	4	advmod	4:advmod	_
 4	nã	n	VERB	vt	Aspect=Imp	5	xcomp	5:xcomp	_
 5	peka	pek	VERB	vt	Aspect=Imp	0	root	0:root	_
 
