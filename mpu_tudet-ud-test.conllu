@@ -80,7 +80,7 @@
 # text = opũãtemwã ota
 # text_eng = I will be back (Wiriyo's text)
 1	opũãtemwã	pũãtem	VERB	vi	Aspect=Imp|Person=1	0	_	_	_
-2	ota	ta	VERB	vi	Person=1	1	aux	1:aux	_
+2	ota	ta	AUX	vi	Person=1	1	aux	1:aux	_
 
 # sent_id = 11
 # text = mokat etera kurux
@@ -95,7 +95,7 @@
 1	nãpẽrenã	nãpẽrenã	ADV	adv	_	3	advmod	3:advmod	_
 2	kito	kito	NOUN	n	_	3	nsubj	3:nsubj	_
 3	eapītera	apītet	VERB	vi	Aspect=Imp|Person=3	0	root	0:root	_
-4	pīxe	pīxe	VERB	vi	_	3	aux	3:aux	_
+4	pīxe	pīxe	AUX	vi	_	3	aux	3:aux	_
 
 # sent_id = 13
 # text = op ten eya õn
