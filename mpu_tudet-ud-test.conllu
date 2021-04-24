@@ -62,7 +62,7 @@
 2	en	en	PRON	pro	Number=Sing|Person=2|PronType=Prs	0	root	0:root	_
 3	emẽ	emẽ	DET	dem	_	5	obj	5:obj	_
 4	xop	xop	DET	dem	_	2	dep	2:dep	_
-5	nẽnẽkaret	nẽ	NOUN	n	Aspect=Hab|Nomzr=Ag|Voice=Cau	4	dep	4:dep	_
+5	nẽnẽkaret	nẽ	NOUN	n	Aspect=Hab|Nomzr=Ag	4	dep	4:dep	_
 
 # sent_id = 8
 # text = woaret koa
