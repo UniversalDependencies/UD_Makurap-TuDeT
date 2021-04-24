@@ -187,7 +187,7 @@
 # sent_id = 22
 # text =  mokat peitõã etera amang korop kux me
 # text_eng = Then, he was looking for it and he noticed that it had disappeared on the ground (Wiriyo's text)
-1	mokat	mokat	ADV	conj	cc	3	advmod	3:advmod	_
+1	mokat	mokat	ADV	adv	_	3	advmod	3:advmod	_
 2	peitõã	peitõã	ADV	adv	_	3	advmod	3:advmod	_
 3	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	0:root	_
 4	amang	amang	VERB	vt	_	3	parataxis	3:parataxis	_
