@@ -255,7 +255,7 @@
 6	me	me	ADP	posp	_	5	case	5:case	_
 
 # sent_id = 30
-# text = kux kixa ngarap, pit
+# text = kux kixa ngarap , pit
 # text_eng = He made a hole, digging the ground, nothing (Wiriyo's text)
 1	kux	kux	NOUN	n	_	2	obj	2:obj	_
 2	kixa	kix	VERB	vt	Aspect=Imp	3	advcl	3:advcl	_
@@ -264,7 +264,7 @@
 5	pit	pit	PRON	pro	Polarity=Neg	3	parataxis	3:parataxis	_
 
 # sent_id = 31
-# text = põrom toa, pit
+# text = põrom toa , pit
 # text_eng = He looked in vain, nothing (Wiriyo's text)
 1	põrom	põrom	ADV	adv	_	2	advmod	2:advmod	_
 2	toa	top	VERB	vi	Aspect=Imp	0	root	0:root	_
