@@ -8,7 +8,7 @@ UD_Makuráp-TuDeT is a collection of annotated texts in Makuráp. The project is
 
 # Introduction
 
-UD_Makuráp-TuDeT is a collection of annotated texts in Makuráp. It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet). The sentences are being annotated by Carolina Aragon and Fabrício Ferraz Gerardi.
+UD_Makuráp-TuDeT is a collection of annotated texts in Makuráp. It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet). The sentences are being annotated by Carolina Aragon, Fabrício Ferraz Gerardi, Luana dos Santos, and Luan Cabral.
 
 ## Text sources
 
