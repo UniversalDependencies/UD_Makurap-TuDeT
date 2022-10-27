@@ -1,7 +1,7 @@
 ![TuLeD](not-to-release/mapNimu2.png)
 # Summary
 
-UD_Makuráp-TuDeT is a collection of annotated texts in Makuráp. The project is a work in progress and the treebank is being updated on a regular basis.
+UD_Makuráp-TuDeT is a collection of annotated texts in Makuráp. The project is a work in progress and the treebank is being updated on a regular basis. The sentences are being annotated by Carolina Aragon, Fabrício Ferraz Gerardi, Luana dos Santos, and Luan Cabral.
 
 
 
