@@ -1272,7 +1272,7 @@ fell asleep (Wiriyo's text) (104)
 7	pe	pe	ADP	_	_	6	obl	_	_
 8	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 61
+# sent_id = 1151
 # text = uro weane kupngaporet yan pet yan kurux pixe tuk .
 # text_eng = Il est arrivé aux chemins des tatous, il est resté debout, en regardant (Wiriyo's text) (35)
 1	uro	uro	NOUN	_	_	3	nmod	_	_
@@ -1286,7 +1286,7 @@ fell asleep (Wiriyo's text) (104)
 9	tuk	tuk	VERB	vt	_	8	parataxis	_	_
 10	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 71
+# sent_id = 1161
 # text = ã xop pe
 # text_eng = Ah! Regarde ce chemin (Wiriyo's text) (36)
 1	ã	ã	INTJ	_	_	3	discourse	_	_
