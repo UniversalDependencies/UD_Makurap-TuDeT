@@ -324,6 +324,6 @@
 2	tota	tota	ADV	_	_	1	advmod	_	_
 3	o	o	INTJ	ips	_	5	discourse	_	_
 4	mokaraet	mokara	NOUN	_	Case=Gen	5	obj	_	_
-5	petepnã	_	VERB	_	_	0	root	_	_
+5	petepnã	petepnã	VERB	_	_	0	root	_	_
 6	ke	ke	PART	pcl	Evident=Nfh	5	discourse	_	_
 
