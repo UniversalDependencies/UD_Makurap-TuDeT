@@ -1267,7 +1267,7 @@ fell asleep (Wiriyo's text) (104)
 3	me	me _	PART	_	_	2	obl	_	_
 4	tupot	tupot	VERB	_	_	1	discourse	_	_
 5	kurux	kurox	VERB	_	_	1	discourse	_	_
-6	pe	pe	NOUN	_	Case=Loc	5	obl	_	_
+6	pe	pe	NOUN	_	_	5	obl	_	_
 7	pe	pe	PART	_	Case=Loc	6	obl	_	_
 
 # sent_id = 61
@@ -1288,7 +1288,7 @@ fell asleep (Wiriyo's text) (104)
 # text_eng = Ah! Regarde ce chemin (Wiriyo's text) (36)
 1	ã	ã	INTJ	_	_	3	discourse	_	_
 2	xop	xop	DET	_	PronType=Dem	3	nmod	_	_
-3	pe	pe	NOUN	_	Case=Loc	0	root	_	_
+3	pe	pe	NOUN	_	_	0	root	_	_
 
 # sent_id = 81
 # text = on eta toewa
