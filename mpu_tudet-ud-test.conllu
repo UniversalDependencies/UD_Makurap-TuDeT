@@ -288,5 +288,5 @@
 4	tupot	tupot	VERB	_	_	1	discourse	_	_
 5	kurux	kurox	VERB	_	_	1	discourse	_	_
 6	pe	pe	NOUN	_	_	5	obl	_	_
-7	pe	pe	ADP	_	Case=Loc	6	obl	_	_
+7	pe	pe	ADP	_	_	6	obl	_	_
 
