@@ -317,3 +317,13 @@
 2	eta	eta	VERB	_	_	3	parataxis	_	_
 3	toewa	to	VERB	_	_	0	root	_	_
 
+# sent_id = 91
+# text = pionã tota o mokaraet petepnã ke
+# text_eng = Laisse-moi d’abord chercher mes affaires (Wiriyo's text) (38)
+1	pionã	pionã	VERB	_	_	5	discourse	_	_ 
+2	tota	tota	ADV	_	_	1	advmod	_	_
+3	o	o	INTJ	ips	_	5	discourse	_	_
+4	mokaraet	mokara	NOUN	_	Case=Gen	5	obj	_	_
+5	petepnã	_	VERB	_	_	0	root	_	_
+6	ke	ke	PART	pcl	Evident=Nfh	5	discourse	_	_
+
