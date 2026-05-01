@@ -26,6 +26,8 @@ The development of the treebank is supported by the by European Research Council
 
 # Changelog
 
+* 2026-05-01 v2.18
+  * Correct obl deprel to case in sent 51 for ADP, twice. (rueter)
 * 2021-05-15 v2.8
   * Initial release in Universal Dependencies.
 

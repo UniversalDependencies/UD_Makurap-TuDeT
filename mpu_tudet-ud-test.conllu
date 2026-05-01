@@ -284,11 +284,11 @@
 # text_eng = Il a été dans le trou, il est sorti, il est arrivé sur un chemin (Wiriyo's text) (34)
 1	etera	tet	VERB	_	Aspect=Imp|Person=3	0	root	_	_
 2	kupyen	Kupyen	NOUN	_	_	1	obl	_	_
-3	me	me	ADP	_	_	2	obl	_	_
+3	me	me	ADP	_	_	2	case	_	_
 4	tupot	tupot	VERB	_	_	1	discourse	_	_
 5	kurux	kurox	VERB	_	_	1	discourse	_	_
 6	pe	pe	NOUN	_	_	5	obl	_	_
-7	pe	pe	ADP	_	_	6	obl	_	_
+7	pe	pe	ADP	_	_	6	case	_	_
 
 # sent_id = 61
 # text = uro weane kupngaporet yan pet yan kurux pixe tuk
