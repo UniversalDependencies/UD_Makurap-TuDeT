@@ -54,7 +54,7 @@
     <dep name="advcl">2</dep>
     <dep name="advmod">26</dep>
     <dep name="aux">2</dep>
-    <dep name="case">4</dep>
+    <dep name="case">6</dep>
     <dep name="cc">3</dep>
     <dep name="conj">3</dep>
     <dep name="dep">17</dep>
@@ -62,7 +62,7 @@
     <dep name="nmod">10</dep>
     <dep name="nsubj">10</dep>
     <dep name="obj">13</dep>
-    <dep name="obl">9</dep>
+    <dep name="obl">7</dep>
     <dep name="parataxis">16</dep>
     <dep name="punct">3</dep>
     <dep name="root">37</dep>
