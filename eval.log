@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Makurap-TuDeT:
-commit 143ac48df53bd8dce2ef85784d8e5d28fcc8b493
-Merge: a9d82eb f7dfbc7
+commit 2729100c8b26687803cdc3b617545086ffbc2105
+Merge: 0cb159b f7646be
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'mpu_tudet'
@@ -25,18 +25,18 @@ Universal relations: 16 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang mpu --max-err=10 UD_Makurap-TuDeT/mpu_tudet-ud-test.conllu
-[Line 63 Sent 7]: [L3 Warning pron-det-without-prontype] The word 'emẽ' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 64 Sent 7]: [L3 Warning pron-det-without-prontype] The word 'xop' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 111 Sent 14]: [L3 Warning pron-det-without-prontype] The word 'xop' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 170 Sent 20]: [L3 Warning pron-det-without-prontype] The word 'xop' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 203 Sent 23]: [L3 Warning pron-det-without-prontype] The word 'pit' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 250 Sent 29]: [L3 Warning pron-det-without-prontype] The word 'xop' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 254 Sent 29]: [L3 Warning pron-det-without-prontype] The word 'xop' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 264 Sent 30]: [L3 Warning pron-det-without-prontype] The word 'pit' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 272 Sent 31]: [L3 Warning pron-det-without-prontype] The word 'pit' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 287 Sent 51]: [L3 Warning obl-should-be-nmod] The parent (node [2] 'kupyen') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-...suppressing further errors regarding Warning
-Warnings: 13
+[Line 63 Sent 7]: [L3 WARNING pron-det-without-prontype] The word 'emẽ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 64 Sent 7]: [L3 WARNING pron-det-without-prontype] The word 'xop' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 111 Sent 14]: [L3 WARNING pron-det-without-prontype] The word 'xop' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 170 Sent 20]: [L3 WARNING pron-det-without-prontype] The word 'xop' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 203 Sent 23]: [L3 WARNING pron-det-without-prontype] The word 'pit' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 250 Sent 29]: [L3 WARNING pron-det-without-prontype] The word 'xop' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 254 Sent 29]: [L3 WARNING pron-det-without-prontype] The word 'xop' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 264 Sent 30]: [L3 WARNING pron-det-without-prontype] The word 'pit' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 272 Sent 31]: [L3 WARNING pron-det-without-prontype] The word 'pit' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 310 Sent 71]: [L3 WARNING pron-det-without-prontype] The word 'xop' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+Warnings: 11
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=0.4) = 0.0444444444444444
